@@ -106,7 +106,7 @@ h1::after
     width: 50px;
     height: 30px;
     border: none;
-    background-color: #3375e99f;
+    background-color: #3376e9;
     border-radius:5px ;
     cursor: pointer;
 }
@@ -185,7 +185,7 @@ h6
     width: 100%;
     margin-top: 1.0rem;
     border: none;
-    background-color:#3375e99f;
+    background-color:#3376e9;
     
     padding: 0.62rem;
     border-radius: 5px;
